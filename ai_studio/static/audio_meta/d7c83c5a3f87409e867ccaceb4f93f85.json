@@ -1,0 +1,480 @@
+{
+  "audio_id": "d7c83c5a3f87409e867ccaceb4f93f85",
+  "duration": 42.62,
+  "words": [
+    {
+      "id": 0,
+      "word": "Slide",
+      "start": 0,
+      "end": 0.42
+    },
+    {
+      "id": 1,
+      "word": "1,",
+      "start": 0.39,
+      "end": 1.06
+    },
+    {
+      "id": 2,
+      "word": "Terraform",
+      "start": 1.35,
+      "end": 1.9
+    },
+    {
+      "id": 3,
+      "word": "is",
+      "start": 1.87,
+      "end": 2.16
+    },
+    {
+      "id": 4,
+      "word": "an",
+      "start": 2.13,
+      "end": 2.32
+    },
+    {
+      "id": 5,
+      "word": "open",
+      "start": 2.29,
+      "end": 2.58
+    },
+    {
+      "id": 6,
+      "word": "source",
+      "start": 2.55,
+      "end": 2.92
+    },
+    {
+      "id": 7,
+      "word": "infrastructure",
+      "start": 2.89,
+      "end": 3.74
+    },
+    {
+      "id": 8,
+      "word": "as",
+      "start": 3.71,
+      "end": 4.2
+    },
+    {
+      "id": 9,
+      "word": "code",
+      "start": 4.17,
+      "end": 4.44
+    },
+    {
+      "id": 10,
+      "word": "tool",
+      "start": 4.41,
+      "end": 4.74
+    },
+    {
+      "id": 11,
+      "word": "developed",
+      "start": 4.71,
+      "end": 5.36
+    },
+    {
+      "id": 12,
+      "word": "by",
+      "start": 5.33,
+      "end": 5.6
+    },
+    {
+      "id": 13,
+      "word": "HashiCop.",
+      "start": 5.57,
+      "end": 6.24
+    },
+    {
+      "id": 14,
+      "word": "Its",
+      "start": 6.75,
+      "end": 7.42
+    },
+    {
+      "id": 15,
+      "word": "core",
+      "start": 7.39,
+      "end": 7.66
+    },
+    {
+      "id": 16,
+      "word": "purpose",
+      "start": 7.63,
+      "end": 8.04
+    },
+    {
+      "id": 17,
+      "word": "is",
+      "start": 8.01,
+      "end": 8.32
+    },
+    {
+      "id": 18,
+      "word": "to",
+      "start": 8.29,
+      "end": 8.48
+    },
+    {
+      "id": 19,
+      "word": "facilitate",
+      "start": 8.45,
+      "end": 9.04
+    },
+    {
+      "id": 20,
+      "word": "the",
+      "start": 9.01,
+      "end": 9.36
+    },
+    {
+      "id": 21,
+      "word": "building,",
+      "start": 9.33,
+      "end": 9.68
+    },
+    {
+      "id": 22,
+      "word": "changing",
+      "start": 10.37,
+      "end": 10.88
+    },
+    {
+      "id": 23,
+      "word": "and",
+      "start": 10.85,
+      "end": 11.58
+    },
+    {
+      "id": 24,
+      "word": "versioning",
+      "start": 11.55,
+      "end": 12.34
+    },
+    {
+      "id": 25,
+      "word": "of",
+      "start": 12.31,
+      "end": 12.48
+    },
+    {
+      "id": 26,
+      "word": "infrastructure",
+      "start": 12.45,
+      "end": 13.1
+    },
+    {
+      "id": 27,
+      "word": "resources.",
+      "start": 13.07,
+      "end": 13.92
+    },
+    {
+      "id": 28,
+      "word": "This",
+      "start": 14.55,
+      "end": 14.92
+    },
+    {
+      "id": 29,
+      "word": "capability",
+      "start": 14.89,
+      "end": 15.52
+    },
+    {
+      "id": 30,
+      "word": "extends",
+      "start": 15.49,
+      "end": 16.18
+    },
+    {
+      "id": 31,
+      "word": "to",
+      "start": 16.15,
+      "end": 16.52
+    },
+    {
+      "id": 32,
+      "word": "environments",
+      "start": 16.49,
+      "end": 17.1
+    },
+    {
+      "id": 33,
+      "word": "both",
+      "start": 17.07,
+      "end": 17.66
+    },
+    {
+      "id": 34,
+      "word": "in",
+      "start": 17.63,
+      "end": 17.9
+    },
+    {
+      "id": 35,
+      "word": "the",
+      "start": 17.87,
+      "end": 18.04
+    },
+    {
+      "id": 36,
+      "word": "cloud",
+      "start": 18.01,
+      "end": 18.36
+    },
+    {
+      "id": 37,
+      "word": "and",
+      "start": 18.33,
+      "end": 18.72
+    },
+    {
+      "id": 38,
+      "word": "on",
+      "start": 18.69,
+      "end": 18.9
+    },
+    {
+      "id": 39,
+      "word": "premises.",
+      "start": 18.87,
+      "end": 19.4
+    },
+    {
+      "id": 40,
+      "word": "Terraform",
+      "start": 20.51,
+      "end": 21.14
+    },
+    {
+      "id": 41,
+      "word": "leverages",
+      "start": 21.11,
+      "end": 21.74
+    },
+    {
+      "id": 42,
+      "word": "the",
+      "start": 21.71,
+      "end": 22.02
+    },
+    {
+      "id": 43,
+      "word": "HashiCop",
+      "start": 21.99,
+      "end": 22.7
+    },
+    {
+      "id": 44,
+      "word": "configuration",
+      "start": 22.67,
+      "end": 23.34
+    },
+    {
+      "id": 45,
+      "word": "language,",
+      "start": 23.31,
+      "end": 24.12
+    },
+    {
+      "id": 46,
+      "word": "known",
+      "start": 24.75,
+      "end": 25.06
+    },
+    {
+      "id": 47,
+      "word": "as",
+      "start": 25.03,
+      "end": 25.46
+    },
+    {
+      "id": 48,
+      "word": "HCL.",
+      "start": 25.43,
+      "end": 26.08
+    },
+    {
+      "id": 49,
+      "word": "For",
+      "start": 26.05,
+      "end": 26.86
+    },
+    {
+      "id": 50,
+      "word": "defining",
+      "start": 26.83,
+      "end": 27.4
+    },
+    {
+      "id": 51,
+      "word": "and",
+      "start": 27.37,
+      "end": 27.66
+    },
+    {
+      "id": 52,
+      "word": "managing",
+      "start": 27.63,
+      "end": 28.1
+    },
+    {
+      "id": 53,
+      "word": "these",
+      "start": 28.07,
+      "end": 28.5
+    },
+    {
+      "id": 54,
+      "word": "resources,",
+      "start": 28.47,
+      "end": 29.06
+    },
+    {
+      "id": 55,
+      "word": "the",
+      "start": 29.75,
+      "end": 29.96
+    },
+    {
+      "id": 56,
+      "word": "primary",
+      "start": 29.93,
+      "end": 30.46
+    },
+    {
+      "id": 57,
+      "word": "objective",
+      "start": 30.43,
+      "end": 31.14
+    },
+    {
+      "id": 58,
+      "word": "of",
+      "start": 31.11,
+      "end": 31.42
+    },
+    {
+      "id": 59,
+      "word": "Terraform",
+      "start": 31.39,
+      "end": 31.96
+    },
+    {
+      "id": 60,
+      "word": "is",
+      "start": 31.93,
+      "end": 32.2
+    },
+    {
+      "id": 61,
+      "word": "to",
+      "start": 32.17,
+      "end": 32.38
+    },
+    {
+      "id": 62,
+      "word": "enable",
+      "start": 32.35,
+      "end": 32.78
+    },
+    {
+      "id": 63,
+      "word": "the",
+      "start": 32.75,
+      "end": 33.02
+    },
+    {
+      "id": 64,
+      "word": "consistent",
+      "start": 32.99,
+      "end": 33.66
+    },
+    {
+      "id": 65,
+      "word": "provisioning",
+      "start": 33.63,
+      "end": 34.46
+    },
+    {
+      "id": 66,
+      "word": "and",
+      "start": 34.43,
+      "end": 34.62
+    },
+    {
+      "id": 67,
+      "word": "comprehensive.",
+      "start": 34.59,
+      "end": 35.34
+    },
+    {
+      "id": 68,
+      "word": "Management",
+      "start": 36.37,
+      "end": 36.94
+    },
+    {
+      "id": 69,
+      "word": "of",
+      "start": 36.91,
+      "end": 37.32
+    },
+    {
+      "id": 70,
+      "word": "an",
+      "start": 37.29,
+      "end": 37.46
+    },
+    {
+      "id": 71,
+      "word": "organization's",
+      "start": 37.43,
+      "end": 38.58
+    },
+    {
+      "id": 72,
+      "word": "entire",
+      "start": 38.55,
+      "end": 38.98
+    },
+    {
+      "id": 73,
+      "word": "infrastructure",
+      "start": 38.95,
+      "end": 39.88
+    },
+    {
+      "id": 74,
+      "word": "throughout",
+      "start": 39.85,
+      "end": 40.36
+    },
+    {
+      "id": 75,
+      "word": "its",
+      "start": 40.33,
+      "end": 40.7
+    },
+    {
+      "id": 76,
+      "word": "complete",
+      "start": 40.67,
+      "end": 41.1
+    },
+    {
+      "id": 77,
+      "word": "life",
+      "start": 41.07,
+      "end": 41.52
+    },
+    {
+      "id": 78,
+      "word": "cycle.",
+      "start": 41.49,
+      "end": 42.02
+    }
+  ]
+}

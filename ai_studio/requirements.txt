@@ -1,0 +1,9 @@
+google-genai
+pdfplumber
+python-pptx
+gTTS
+fastapi
+jinja2
+faster-whisper
+torch
+mutagen

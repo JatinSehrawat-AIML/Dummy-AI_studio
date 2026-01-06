@@ -1,0 +1,1962 @@
+{
+  "audio_id": "fa60fed55e1744719c55f9873ced8338",
+  "duration": 194.66,
+  "words": [
+    {
+      "id": 0,
+      "word": "Slide",
+      "start": 0,
+      "end": 0.42
+    },
+    {
+      "id": 1,
+      "word": "1.",
+      "start": 0.39,
+      "end": 1.02
+    },
+    {
+      "id": 2,
+      "word": "Amazon",
+      "start": 1.21,
+      "end": 1.82
+    },
+    {
+      "id": 3,
+      "word": "SageMaker",
+      "start": 1.79,
+      "end": 2.7
+    },
+    {
+      "id": 4,
+      "word": "is",
+      "start": 2.67,
+      "end": 2.92
+    },
+    {
+      "id": 5,
+      "word": "presented",
+      "start": 2.89,
+      "end": 3.44
+    },
+    {
+      "id": 6,
+      "word": "as",
+      "start": 3.41,
+      "end": 3.74
+    },
+    {
+      "id": 7,
+      "word": "a",
+      "start": 3.71,
+      "end": 3.82
+    },
+    {
+      "id": 8,
+      "word": "comprehensive,",
+      "start": 3.79,
+      "end": 4.58
+    },
+    {
+      "id": 9,
+      "word": "all",
+      "start": 5.23,
+      "end": 5.5
+    },
+    {
+      "id": 10,
+      "word": "in",
+      "start": 5.47,
+      "end": 5.7
+    },
+    {
+      "id": 11,
+      "word": "one",
+      "start": 5.67,
+      "end": 5.9
+    },
+    {
+      "id": 12,
+      "word": "platform",
+      "start": 5.87,
+      "end": 6.46
+    },
+    {
+      "id": 13,
+      "word": "designed",
+      "start": 6.43,
+      "end": 6.9
+    },
+    {
+      "id": 14,
+      "word": "for",
+      "start": 6.87,
+      "end": 7.24
+    },
+    {
+      "id": 15,
+      "word": "the",
+      "start": 7.21,
+      "end": 7.44
+    },
+    {
+      "id": 16,
+      "word": "entire",
+      "start": 7.41,
+      "end": 7.84
+    },
+    {
+      "id": 17,
+      "word": "machine",
+      "start": 7.81,
+      "end": 8.22
+    },
+    {
+      "id": 18,
+      "word": "learning",
+      "start": 8.19,
+      "end": 8.64
+    },
+    {
+      "id": 19,
+      "word": "life",
+      "start": 8.61,
+      "end": 8.96
+    },
+    {
+      "id": 20,
+      "word": "cycle.",
+      "start": 8.93,
+      "end": 9.44
+    },
+    {
+      "id": 21,
+      "word": "This",
+      "start": 9.87,
+      "end": 10.26
+    },
+    {
+      "id": 22,
+      "word": "includes",
+      "start": 10.23,
+      "end": 10.84
+    },
+    {
+      "id": 23,
+      "word": "capabilities",
+      "start": 10.81,
+      "end": 11.68
+    },
+    {
+      "id": 24,
+      "word": "for",
+      "start": 11.65,
+      "end": 12.0
+    },
+    {
+      "id": 25,
+      "word": "building,",
+      "start": 11.97,
+      "end": 12.32
+    },
+    {
+      "id": 26,
+      "word": "training,",
+      "start": 12.99,
+      "end": 13.46
+    },
+    {
+      "id": 27,
+      "word": "tuning,",
+      "start": 13.93,
+      "end": 14.32
+    },
+    {
+      "id": 28,
+      "word": "deploying,",
+      "start": 14.91,
+      "end": 15.4
+    },
+    {
+      "id": 29,
+      "word": "and",
+      "start": 15.85,
+      "end": 16.24
+    },
+    {
+      "id": 30,
+      "word": "monitoring",
+      "start": 16.21,
+      "end": 16.68
+    },
+    {
+      "id": 31,
+      "word": "machine",
+      "start": 16.65,
+      "end": 17.22
+    },
+    {
+      "id": 32,
+      "word": "learning",
+      "start": 17.19,
+      "end": 17.68
+    },
+    {
+      "id": 33,
+      "word": "models",
+      "start": 17.65,
+      "end": 18.14
+    },
+    {
+      "id": 34,
+      "word": "at",
+      "start": 18.11,
+      "end": 18.42
+    },
+    {
+      "id": 35,
+      "word": "scale.",
+      "start": 18.39,
+      "end": 18.88
+    },
+    {
+      "id": 36,
+      "word": "Key",
+      "start": 19.39,
+      "end": 19.56
+    },
+    {
+      "id": 37,
+      "word": "components",
+      "start": 19.53,
+      "end": 20.14
+    },
+    {
+      "id": 38,
+      "word": "within",
+      "start": 20.11,
+      "end": 20.58
+    },
+    {
+      "id": 39,
+      "word": "SageMaker",
+      "start": 20.55,
+      "end": 21.4
+    },
+    {
+      "id": 40,
+      "word": "support",
+      "start": 21.37,
+      "end": 21.82
+    },
+    {
+      "id": 41,
+      "word": "various",
+      "start": 21.79,
+      "end": 22.4
+    },
+    {
+      "id": 42,
+      "word": "stages",
+      "start": 22.37,
+      "end": 22.92
+    },
+    {
+      "id": 43,
+      "word": "of",
+      "start": 22.89,
+      "end": 23.16
+    },
+    {
+      "id": 44,
+      "word": "this",
+      "start": 23.13,
+      "end": 23.38
+    },
+    {
+      "id": 45,
+      "word": "process.",
+      "start": 23.35,
+      "end": 23.88
+    },
+    {
+      "id": 46,
+      "word": "SageMaker",
+      "start": 24.63,
+      "end": 25.34
+    },
+    {
+      "id": 47,
+      "word": "Studio",
+      "start": 25.31,
+      "end": 25.82
+    },
+    {
+      "id": 48,
+      "word": "serves",
+      "start": 25.79,
+      "end": 26.24
+    },
+    {
+      "id": 49,
+      "word": "as",
+      "start": 26.21,
+      "end": 26.52
+    },
+    {
+      "id": 50,
+      "word": "an",
+      "start": 26.49,
+      "end": 26.68
+    },
+    {
+      "id": 51,
+      "word": "integrated",
+      "start": 26.65,
+      "end": 27.24
+    },
+    {
+      "id": 52,
+      "word": "development",
+      "start": 27.21,
+      "end": 27.86
+    },
+    {
+      "id": 53,
+      "word": "environment.",
+      "start": 27.83,
+      "end": 29.1
+    },
+    {
+      "id": 54,
+      "word": "I'd",
+      "start": 29.33,
+      "end": 30.04
+    },
+    {
+      "id": 55,
+      "word": "specifically",
+      "start": 30.01,
+      "end": 30.86
+    },
+    {
+      "id": 56,
+      "word": "tailored",
+      "start": 30.83,
+      "end": 31.58
+    },
+    {
+      "id": 57,
+      "word": "for",
+      "start": 31.55,
+      "end": 31.84
+    },
+    {
+      "id": 58,
+      "word": "machine",
+      "start": 31.81,
+      "end": 32.18
+    },
+    {
+      "id": 59,
+      "word": "learning",
+      "start": 32.15,
+      "end": 32.62
+    },
+    {
+      "id": 60,
+      "word": "workflows.",
+      "start": 32.59,
+      "end": 33.28
+    },
+    {
+      "id": 61,
+      "word": "SageMaker",
+      "start": 34.13,
+      "end": 34.8
+    },
+    {
+      "id": 62,
+      "word": "training",
+      "start": 34.77,
+      "end": 35.18
+    },
+    {
+      "id": 63,
+      "word": "jobs",
+      "start": 35.15,
+      "end": 35.64
+    },
+    {
+      "id": 64,
+      "word": "facilitate",
+      "start": 35.61,
+      "end": 36.2
+    },
+    {
+      "id": 65,
+      "word": "distributed",
+      "start": 36.17,
+      "end": 37.06
+    },
+    {
+      "id": 66,
+      "word": "training",
+      "start": 37.03,
+      "end": 37.66
+    },
+    {
+      "id": 67,
+      "word": "of",
+      "start": 37.63,
+      "end": 37.94
+    },
+    {
+      "id": 68,
+      "word": "models,",
+      "start": 37.91,
+      "end": 38.34
+    },
+    {
+      "id": 69,
+      "word": "enabling",
+      "start": 39.15,
+      "end": 39.52
+    },
+    {
+      "id": 70,
+      "word": "efficient",
+      "start": 39.49,
+      "end": 40.22
+    },
+    {
+      "id": 71,
+      "word": "use",
+      "start": 40.19,
+      "end": 40.64
+    },
+    {
+      "id": 72,
+      "word": "of",
+      "start": 40.61,
+      "end": 40.86
+    },
+    {
+      "id": 73,
+      "word": "computational",
+      "start": 40.83,
+      "end": 41.62
+    },
+    {
+      "id": 74,
+      "word": "resources",
+      "start": 41.59,
+      "end": 42.28
+    },
+    {
+      "id": 75,
+      "word": "for",
+      "start": 42.25,
+      "end": 42.62
+    },
+    {
+      "id": 76,
+      "word": "large",
+      "start": 42.59,
+      "end": 43.02
+    },
+    {
+      "id": 77,
+      "word": "data",
+      "start": 42.99,
+      "end": 43.26
+    },
+    {
+      "id": 78,
+      "word": "sets",
+      "start": 43.23,
+      "end": 43.7
+    },
+    {
+      "id": 79,
+      "word": "and",
+      "start": 43.67,
+      "end": 43.92
+    },
+    {
+      "id": 80,
+      "word": "complex",
+      "start": 43.89,
+      "end": 44.34
+    },
+    {
+      "id": 81,
+      "word": "models.",
+      "start": 44.31,
+      "end": 44.92
+    },
+    {
+      "id": 82,
+      "word": "For",
+      "start": 45.81,
+      "end": 46.16
+    },
+    {
+      "id": 83,
+      "word": "optimizing",
+      "start": 46.13,
+      "end": 46.72
+    },
+    {
+      "id": 84,
+      "word": "model",
+      "start": 46.69,
+      "end": 47.36
+    },
+    {
+      "id": 85,
+      "word": "performance,",
+      "start": 47.33,
+      "end": 48.04
+    },
+    {
+      "id": 86,
+      "word": "SageMaker",
+      "start": 48.73,
+      "end": 49.46
+    },
+    {
+      "id": 87,
+      "word": "offers",
+      "start": 49.43,
+      "end": 49.96
+    },
+    {
+      "id": 88,
+      "word": "hyperparameter",
+      "start": 49.93,
+      "end": 51.04
+    },
+    {
+      "id": 89,
+      "word": "tuning.",
+      "start": 51.01,
+      "end": 51.52
+    },
+    {
+      "id": 90,
+      "word": "MLOP's",
+      "start": 52.21,
+      "end": 53.1
+    },
+    {
+      "id": 91,
+      "word": "workflows",
+      "start": 53.07,
+      "end": 53.66
+    },
+    {
+      "id": 92,
+      "word": "are",
+      "start": 53.63,
+      "end": 53.98
+    },
+    {
+      "id": 93,
+      "word": "supported",
+      "start": 53.95,
+      "end": 54.48
+    },
+    {
+      "id": 94,
+      "word": "by",
+      "start": 54.45,
+      "end": 54.76
+    },
+    {
+      "id": 95,
+      "word": "SageMaker",
+      "start": 54.73,
+      "end": 55.58
+    },
+    {
+      "id": 96,
+      "word": "pipelines,",
+      "start": 55.55,
+      "end": 56.08
+    },
+    {
+      "id": 97,
+      "word": "which",
+      "start": 56.67,
+      "end": 57.14
+    },
+    {
+      "id": 98,
+      "word": "automate",
+      "start": 57.11,
+      "end": 57.74
+    },
+    {
+      "id": 99,
+      "word": "and",
+      "start": 57.71,
+      "end": 58.02
+    },
+    {
+      "id": 100,
+      "word": "manage",
+      "start": 57.99,
+      "end": 58.34
+    },
+    {
+      "id": 101,
+      "word": "the",
+      "start": 58.31,
+      "end": 58.6
+    },
+    {
+      "id": 102,
+      "word": "steps",
+      "start": 58.57,
+      "end": 58.96
+    },
+    {
+      "id": 103,
+      "word": "of",
+      "start": 58.93,
+      "end": 59.18
+    },
+    {
+      "id": 104,
+      "word": "a",
+      "start": 59.15,
+      "end": 59.32
+    },
+    {
+      "id": 105,
+      "word": "machine",
+      "start": 59.29,
+      "end": 59.62
+    },
+    {
+      "id": 106,
+      "word": "learning",
+      "start": 59.59,
+      "end": 60.04
+    },
+    {
+      "id": 107,
+      "word": "project.",
+      "start": 60.01,
+      "end": 60.82
+    },
+    {
+      "id": 108,
+      "word": "Bias",
+      "start": 61.19,
+      "end": 61.66
+    },
+    {
+      "id": 109,
+      "word": "detection",
+      "start": 61.63,
+      "end": 62.24
+    },
+    {
+      "id": 110,
+      "word": "in",
+      "start": 62.21,
+      "end": 62.54
+    },
+    {
+      "id": 111,
+      "word": "models",
+      "start": 62.51,
+      "end": 62.86
+    },
+    {
+      "id": 112,
+      "word": "is",
+      "start": 62.83,
+      "end": 63.2
+    },
+    {
+      "id": 113,
+      "word": "addressed",
+      "start": 63.17,
+      "end": 63.5
+    },
+    {
+      "id": 114,
+      "word": "by",
+      "start": 63.47,
+      "end": 63.88
+    },
+    {
+      "id": 115,
+      "word": "SageMaker",
+      "start": 63.85,
+      "end": 64.62
+    },
+    {
+      "id": 116,
+      "word": "Clarify.",
+      "start": 64.59,
+      "end": 65.3
+    },
+    {
+      "id": 117,
+      "word": "Finally,",
+      "start": 65.93,
+      "end": 66.54
+    },
+    {
+      "id": 118,
+      "word": "SageMaker",
+      "start": 66.95,
+      "end": 67.82
+    },
+    {
+      "id": 119,
+      "word": "hosting",
+      "start": 67.79,
+      "end": 68.22
+    },
+    {
+      "id": 120,
+      "word": "services",
+      "start": 68.19,
+      "end": 68.9
+    },
+    {
+      "id": 121,
+      "word": "provide",
+      "start": 68.87,
+      "end": 69.38
+    },
+    {
+      "id": 122,
+      "word": "the",
+      "start": 69.35,
+      "end": 69.7
+    },
+    {
+      "id": 123,
+      "word": "infrastructure",
+      "start": 69.67,
+      "end": 70.34
+    },
+    {
+      "id": 124,
+      "word": "necessary",
+      "start": 70.31,
+      "end": 70.94
+    },
+    {
+      "id": 125,
+      "word": "for",
+      "start": 70.91,
+      "end": 71.42
+    },
+    {
+      "id": 126,
+      "word": "deploying",
+      "start": 71.39,
+      "end": 71.84
+    },
+    {
+      "id": 127,
+      "word": "models,",
+      "start": 71.81,
+      "end": 72.52
+    },
+    {
+      "id": 128,
+      "word": "enabling",
+      "start": 73.09,
+      "end": 73.52
+    },
+    {
+      "id": 129,
+      "word": "both",
+      "start": 73.49,
+      "end": 74.08
+    },
+    {
+      "id": 130,
+      "word": "real",
+      "start": 74.05,
+      "end": 74.36
+    },
+    {
+      "id": 131,
+      "word": "-time",
+      "start": 74.33,
+      "end": 74.64
+    },
+    {
+      "id": 132,
+      "word": "and",
+      "start": 74.61,
+      "end": 74.9
+    },
+    {
+      "id": 133,
+      "word": "batch",
+      "start": 74.87,
+      "end": 75.18
+    },
+    {
+      "id": 134,
+      "word": "inference",
+      "start": 75.15,
+      "end": 75.74
+    },
+    {
+      "id": 135,
+      "word": "endpoints.",
+      "start": 75.71,
+      "end": 76.62
+    },
+    {
+      "id": 136,
+      "word": "Slide",
+      "start": 77.43,
+      "end": 77.66
+    },
+    {
+      "id": 137,
+      "word": "2.",
+      "start": 77.63,
+      "end": 78.16
+    },
+    {
+      "id": 138,
+      "word": "Beyond",
+      "start": 78.59,
+      "end": 78.9
+    },
+    {
+      "id": 139,
+      "word": "SageMaker,",
+      "start": 78.87,
+      "end": 79.86
+    },
+    {
+      "id": 140,
+      "word": "alternative",
+      "start": 80.27,
+      "end": 80.82
+    },
+    {
+      "id": 141,
+      "word": "compute",
+      "start": 80.79,
+      "end": 81.42
+    },
+    {
+      "id": 142,
+      "word": "options",
+      "start": 81.39,
+      "end": 81.96
+    },
+    {
+      "id": 143,
+      "word": "are",
+      "start": 81.93,
+      "end": 82.3
+    },
+    {
+      "id": 144,
+      "word": "available",
+      "start": 82.27,
+      "end": 82.74
+    },
+    {
+      "id": 145,
+      "word": "for",
+      "start": 82.71,
+      "end": 83.12
+    },
+    {
+      "id": 146,
+      "word": "machine",
+      "start": 83.09,
+      "end": 83.48
+    },
+    {
+      "id": 147,
+      "word": "learning",
+      "start": 83.45,
+      "end": 83.9
+    },
+    {
+      "id": 148,
+      "word": "tasks.",
+      "start": 83.87,
+      "end": 84.44
+    },
+    {
+      "id": 149,
+      "word": "Amazon",
+      "start": 84.91,
+      "end": 85.44
+    },
+    {
+      "id": 150,
+      "word": "EC2,",
+      "start": 85.41,
+      "end": 86.56
+    },
+    {
+      "id": 151,
+      "word": "or",
+      "start": 86.95,
+      "end": 87.16
+    },
+    {
+      "id": 152,
+      "word": "Elastic",
+      "start": 87.13,
+      "end": 87.68
+    },
+    {
+      "id": 153,
+      "word": "Compute",
+      "start": 87.65,
+      "end": 88.38
+    },
+    {
+      "id": 154,
+      "word": "Cloud,",
+      "start": 88.35,
+      "end": 88.68
+    },
+    {
+      "id": 155,
+      "word": "offers",
+      "start": 89.17,
+      "end": 89.52
+    },
+    {
+      "id": 156,
+      "word": "various",
+      "start": 89.49,
+      "end": 90.12
+    },
+    {
+      "id": 157,
+      "word": "instance",
+      "start": 90.09,
+      "end": 90.58
+    },
+    {
+      "id": 158,
+      "word": "types,",
+      "start": 90.55,
+      "end": 91.18
+    },
+    {
+      "id": 159,
+      "word": "including",
+      "start": 91.59,
+      "end": 92.12
+    },
+    {
+      "id": 160,
+      "word": "those",
+      "start": 92.09,
+      "end": 92.56
+    },
+    {
+      "id": 161,
+      "word": "equipped",
+      "start": 92.53,
+      "end": 92.98
+    },
+    {
+      "id": 162,
+      "word": "with",
+      "start": 92.95,
+      "end": 93.38
+    },
+    {
+      "id": 163,
+      "word": "GPUs,",
+      "start": 93.35,
+      "end": 94.34
+    },
+    {
+      "id": 164,
+      "word": "such",
+      "start": 94.67,
+      "end": 95.14
+    },
+    {
+      "id": 165,
+      "word": "as",
+      "start": 95.11,
+      "end": 95.34
+    },
+    {
+      "id": 166,
+      "word": "P3,",
+      "start": 95.31,
+      "end": 95.8
+    },
+    {
+      "id": 167,
+      "word": "G5,",
+      "start": 96.27,
+      "end": 96.94
+    },
+    {
+      "id": 168,
+      "word": "and",
+      "start": 97.57,
+      "end": 97.8
+    },
+    {
+      "id": 169,
+      "word": "INF1",
+      "start": 97.77,
+      "end": 98.68
+    },
+    {
+      "id": 170,
+      "word": "instances,",
+      "start": 98.65,
+      "end": 99.36
+    },
+    {
+      "id": 171,
+      "word": "which",
+      "start": 99.95,
+      "end": 100.3
+    },
+    {
+      "id": 172,
+      "word": "are",
+      "start": 100.27,
+      "end": 100.48
+    },
+    {
+      "id": 173,
+      "word": "suitable",
+      "start": 100.45,
+      "end": 100.88
+    },
+    {
+      "id": 174,
+      "word": "for",
+      "start": 100.85,
+      "end": 101.24
+    },
+    {
+      "id": 175,
+      "word": "intensive",
+      "start": 101.21,
+      "end": 101.74
+    },
+    {
+      "id": 176,
+      "word": "model",
+      "start": 101.71,
+      "end": 102.18
+    },
+    {
+      "id": 177,
+      "word": "training",
+      "start": 102.15,
+      "end": 102.72
+    },
+    {
+      "id": 178,
+      "word": "in",
+      "start": 102.69,
+      "end": 102.98
+    },
+    {
+      "id": 179,
+      "word": "deployment.",
+      "start": 102.95,
+      "end": 103.54
+    },
+    {
+      "id": 180,
+      "word": "For",
+      "start": 104.17,
+      "end": 104.48
+    },
+    {
+      "id": 181,
+      "word": "inference",
+      "start": 104.45,
+      "end": 105.04
+    },
+    {
+      "id": 182,
+      "word": "tasks,",
+      "start": 105.01,
+      "end": 105.68
+    },
+    {
+      "id": 183,
+      "word": "AWS",
+      "start": 106.15,
+      "end": 106.76
+    },
+    {
+      "id": 184,
+      "word": "batch",
+      "start": 106.73,
+      "end": 107.34
+    },
+    {
+      "id": 185,
+      "word": "can",
+      "start": 107.31,
+      "end": 107.7
+    },
+    {
+      "id": 186,
+      "word": "be",
+      "start": 107.67,
+      "end": 107.88
+    },
+    {
+      "id": 187,
+      "word": "utilized",
+      "start": 107.85,
+      "end": 108.36
+    },
+    {
+      "id": 188,
+      "word": "for",
+      "start": 108.33,
+      "end": 108.74
+    },
+    {
+      "id": 189,
+      "word": "processing",
+      "start": 108.71,
+      "end": 109.26
+    },
+    {
+      "id": 190,
+      "word": "large",
+      "start": 109.23,
+      "end": 109.78
+    },
+    {
+      "id": 191,
+      "word": "volumes",
+      "start": 109.75,
+      "end": 110.2
+    },
+    {
+      "id": 192,
+      "word": "of",
+      "start": 110.17,
+      "end": 110.7
+    },
+    {
+      "id": 193,
+      "word": "data",
+      "start": 110.67,
+      "end": 110.88
+    },
+    {
+      "id": 194,
+      "word": "asynchronously.",
+      "start": 110.85,
+      "end": 111.92
+    },
+    {
+      "id": 195,
+      "word": "While",
+      "start": 112.61,
+      "end": 113.1
+    },
+    {
+      "id": 196,
+      "word": "AWS",
+      "start": 113.07,
+      "end": 113.8
+    },
+    {
+      "id": 197,
+      "word": "Lambda",
+      "start": 113.77,
+      "end": 114.32
+    },
+    {
+      "id": 198,
+      "word": "provides",
+      "start": 114.29,
+      "end": 114.88
+    },
+    {
+      "id": 199,
+      "word": "a",
+      "start": 114.85,
+      "end": 115.2
+    },
+    {
+      "id": 200,
+      "word": "serverless",
+      "start": 115.17,
+      "end": 115.84
+    },
+    {
+      "id": 201,
+      "word": "compute",
+      "start": 115.81,
+      "end": 116.26
+    },
+    {
+      "id": 202,
+      "word": "option",
+      "start": 116.23,
+      "end": 116.8
+    },
+    {
+      "id": 203,
+      "word": "for",
+      "start": 116.77,
+      "end": 117.08
+    },
+    {
+      "id": 204,
+      "word": "lightweight,",
+      "start": 117.05,
+      "end": 117.48
+    },
+    {
+      "id": 205,
+      "word": "event",
+      "start": 118.31,
+      "end": 118.98
+    },
+    {
+      "id": 206,
+      "word": "-driven",
+      "start": 118.95,
+      "end": 119.34
+    },
+    {
+      "id": 207,
+      "word": "inference",
+      "start": 119.31,
+      "end": 120.06
+    },
+    {
+      "id": 208,
+      "word": "operations,",
+      "start": 120.03,
+      "end": 120.74
+    },
+    {
+      "id": 209,
+      "word": "data",
+      "start": 121.33,
+      "end": 121.7
+    },
+    {
+      "id": 210,
+      "word": "storage",
+      "start": 121.67,
+      "end": 122.16
+    },
+    {
+      "id": 211,
+      "word": "and",
+      "start": 122.13,
+      "end": 122.42
+    },
+    {
+      "id": 212,
+      "word": "processing",
+      "start": 122.39,
+      "end": 122.96
+    },
+    {
+      "id": 213,
+      "word": "are",
+      "start": 122.93,
+      "end": 123.28
+    },
+    {
+      "id": 214,
+      "word": "foundational",
+      "start": 123.25,
+      "end": 123.88
+    },
+    {
+      "id": 215,
+      "word": "to",
+      "start": 123.85,
+      "end": 124.26
+    },
+    {
+      "id": 216,
+      "word": "machine",
+      "start": 124.23,
+      "end": 124.58
+    },
+    {
+      "id": 217,
+      "word": "learning.",
+      "start": 124.55,
+      "end": 125.06
+    },
+    {
+      "id": 218,
+      "word": "Amazon",
+      "start": 125.73,
+      "end": 126.18
+    },
+    {
+      "id": 219,
+      "word": "S3,",
+      "start": 126.15,
+      "end": 126.9
+    },
+    {
+      "id": 220,
+      "word": "the",
+      "start": 127.37,
+      "end": 127.5
+    },
+    {
+      "id": 221,
+      "word": "simple",
+      "start": 127.47,
+      "end": 127.9
+    },
+    {
+      "id": 222,
+      "word": "storage",
+      "start": 127.87,
+      "end": 128.42
+    },
+    {
+      "id": 223,
+      "word": "service,",
+      "start": 128.39,
+      "end": 129.14
+    },
+    {
+      "id": 224,
+      "word": "functions",
+      "start": 129.55,
+      "end": 130.0
+    },
+    {
+      "id": 225,
+      "word": "as",
+      "start": 129.97,
+      "end": 130.34
+    },
+    {
+      "id": 226,
+      "word": "core",
+      "start": 130.31,
+      "end": 130.54
+    },
+    {
+      "id": 227,
+      "word": "object",
+      "start": 130.51,
+      "end": 130.96
+    },
+    {
+      "id": 228,
+      "word": "storage",
+      "start": 130.93,
+      "end": 131.56
+    },
+    {
+      "id": 229,
+      "word": "for",
+      "start": 131.53,
+      "end": 131.86
+    },
+    {
+      "id": 230,
+      "word": "a",
+      "start": 131.83,
+      "end": 132.02
+    },
+    {
+      "id": 231,
+      "word": "variety",
+      "start": 131.99,
+      "end": 132.4
+    },
+    {
+      "id": 232,
+      "word": "of",
+      "start": 132.37,
+      "end": 132.64
+    },
+    {
+      "id": 233,
+      "word": "machine",
+      "start": 132.61,
+      "end": 133.0
+    },
+    {
+      "id": 234,
+      "word": "learning",
+      "start": 132.97,
+      "end": 133.4
+    },
+    {
+      "id": 235,
+      "word": "assets,",
+      "start": 133.37,
+      "end": 133.92
+    },
+    {
+      "id": 236,
+      "word": "including",
+      "start": 135.05,
+      "end": 135.42
+    },
+    {
+      "id": 237,
+      "word": "raw",
+      "start": 135.39,
+      "end": 135.86
+    },
+    {
+      "id": 238,
+      "word": "data",
+      "start": 135.83,
+      "end": 136.12
+    },
+    {
+      "id": 239,
+      "word": "sets,",
+      "start": 136.09,
+      "end": 136.76
+    },
+    {
+      "id": 240,
+      "word": "processed",
+      "start": 137.11,
+      "end": 137.54
+    },
+    {
+      "id": 241,
+      "word": "data,",
+      "start": 137.51,
+      "end": 138.14
+    },
+    {
+      "id": 242,
+      "word": "model",
+      "start": 138.63,
+      "end": 139.0
+    },
+    {
+      "id": 243,
+      "word": "artifacts,",
+      "start": 138.97,
+      "end": 139.68
+    },
+    {
+      "id": 244,
+      "word": "and",
+      "start": 140.15,
+      "end": 140.6
+    },
+    {
+      "id": 245,
+      "word": "logs",
+      "start": 140.57,
+      "end": 141.04
+    },
+    {
+      "id": 246,
+      "word": "for",
+      "start": 141.01,
+      "end": 141.78
+    },
+    {
+      "id": 247,
+      "word": "data",
+      "start": 141.75,
+      "end": 142.14
+    },
+    {
+      "id": 248,
+      "word": "preparation",
+      "start": 142.11,
+      "end": 142.68
+    },
+    {
+      "id": 249,
+      "word": "and",
+      "start": 142.65,
+      "end": 143.12
+    },
+    {
+      "id": 250,
+      "word": "transformation.",
+      "start": 143.09,
+      "end": 143.96
+    },
+    {
+      "id": 251,
+      "word": "AWS",
+      "start": 144.67,
+      "end": 145.32
+    },
+    {
+      "id": 252,
+      "word": "Glue",
+      "start": 145.29,
+      "end": 145.86
+    },
+    {
+      "id": 253,
+      "word": "operates",
+      "start": 145.83,
+      "end": 146.38
+    },
+    {
+      "id": 254,
+      "word": "as",
+      "start": 146.35,
+      "end": 146.7
+    },
+    {
+      "id": 255,
+      "word": "an",
+      "start": 146.67,
+      "end": 146.88
+    },
+    {
+      "id": 256,
+      "word": "extract,",
+      "start": 146.85,
+      "end": 147.34
+    },
+    {
+      "id": 257,
+      "word": "transform,",
+      "start": 147.89,
+      "end": 148.68
+    },
+    {
+      "id": 258,
+      "word": "load,",
+      "start": 149.29,
+      "end": 149.56
+    },
+    {
+      "id": 259,
+      "word": "ETL,",
+      "start": 150.09,
+      "end": 150.88
+    },
+    {
+      "id": 260,
+      "word": "service,",
+      "start": 151.31,
+      "end": 151.72
+    },
+    {
+      "id": 261,
+      "word": "enabling",
+      "start": 152.25,
+      "end": 152.76
+    },
+    {
+      "id": 262,
+      "word": "the",
+      "start": 152.73,
+      "end": 153.06
+    },
+    {
+      "id": 263,
+      "word": "manipulation",
+      "start": 153.03,
+      "end": 153.66
+    },
+    {
+      "id": 264,
+      "word": "of",
+      "start": 153.63,
+      "end": 154.2
+    },
+    {
+      "id": 265,
+      "word": "both",
+      "start": 154.17,
+      "end": 154.44
+    },
+    {
+      "id": 266,
+      "word": "structured",
+      "start": 154.41,
+      "end": 155.1
+    },
+    {
+      "id": 267,
+      "word": "and",
+      "start": 155.07,
+      "end": 155.36
+    },
+    {
+      "id": 268,
+      "word": "unstructured",
+      "start": 155.33,
+      "end": 155.9
+    },
+    {
+      "id": 269,
+      "word": "data.",
+      "start": 155.87,
+      "end": 156.52
+    },
+    {
+      "id": 270,
+      "word": "For",
+      "start": 157.05,
+      "end": 157.3
+    },
+    {
+      "id": 271,
+      "word": "storing",
+      "start": 157.27,
+      "end": 157.74
+    },
+    {
+      "id": 272,
+      "word": "and",
+      "start": 157.71,
+      "end": 158.0
+    },
+    {
+      "id": 273,
+      "word": "querying",
+      "start": 157.97,
+      "end": 158.48
+    },
+    {
+      "id": 274,
+      "word": "structured",
+      "start": 158.45,
+      "end": 159.04
+    },
+    {
+      "id": 275,
+      "word": "data",
+      "start": 159.01,
+      "end": 159.38
+    },
+    {
+      "id": 276,
+      "word": "sets",
+      "start": 159.35,
+      "end": 159.9
+    },
+    {
+      "id": 277,
+      "word": "used",
+      "start": 159.87,
+      "end": 160.26
+    },
+    {
+      "id": 278,
+      "word": "in",
+      "start": 160.23,
+      "end": 160.44
+    },
+    {
+      "id": 279,
+      "word": "milliliter",
+      "start": 160.41,
+      "end": 161.04
+    },
+    {
+      "id": 280,
+      "word": "training,",
+      "start": 161.01,
+      "end": 161.46
+    },
+    {
+      "id": 281,
+      "word": "services",
+      "start": 162.13,
+      "end": 162.58
+    },
+    {
+      "id": 282,
+      "word": "such",
+      "start": 162.55,
+      "end": 163.04
+    },
+    {
+      "id": 283,
+      "word": "as",
+      "start": 163.01,
+      "end": 163.3
+    },
+    {
+      "id": 284,
+      "word": "Amazon",
+      "start": 163.27,
+      "end": 163.7
+    },
+    {
+      "id": 285,
+      "word": "Redshift,",
+      "start": 163.67,
+      "end": 164.46
+    },
+    {
+      "id": 286,
+      "word": "a",
+      "start": 165.01,
+      "end": 165.16
+    },
+    {
+      "id": 287,
+      "word": "data",
+      "start": 165.13,
+      "end": 165.5
+    },
+    {
+      "id": 288,
+      "word": "warehouse,",
+      "start": 165.47,
+      "end": 166.0
+    },
+    {
+      "id": 289,
+      "word": "Amazon",
+      "start": 166.65,
+      "end": 167.18
+    },
+    {
+      "id": 290,
+      "word": "Athena,",
+      "start": 167.15,
+      "end": 167.76
+    },
+    {
+      "id": 291,
+      "word": "a",
+      "start": 168.23,
+      "end": 168.38
+    },
+    {
+      "id": 292,
+      "word": "query",
+      "start": 168.35,
+      "end": 168.62
+    },
+    {
+      "id": 293,
+      "word": "service",
+      "start": 168.59,
+      "end": 169.18
+    },
+    {
+      "id": 294,
+      "word": "for",
+      "start": 169.15,
+      "end": 169.52
+    },
+    {
+      "id": 295,
+      "word": "S3",
+      "start": 169.49,
+      "end": 170.02
+    },
+    {
+      "id": 296,
+      "word": "data,",
+      "start": 169.99,
+      "end": 170.48
+    },
+    {
+      "id": 297,
+      "word": "and",
+      "start": 170.95,
+      "end": 171.28
+    },
+    {
+      "id": 298,
+      "word": "Amazon",
+      "start": 171.25,
+      "end": 171.8
+    },
+    {
+      "id": 299,
+      "word": "RDS.",
+      "start": 171.77,
+      "end": 172.52
+    },
+    {
+      "id": 300,
+      "word": "Relational",
+      "start": 173.25,
+      "end": 173.86
+    },
+    {
+      "id": 301,
+      "word": "database",
+      "start": 173.83,
+      "end": 174.34
+    },
+    {
+      "id": 302,
+      "word": "service",
+      "start": 174.31,
+      "end": 175.28
+    },
+    {
+      "id": 303,
+      "word": "are",
+      "start": 175.25,
+      "end": 175.66
+    },
+    {
+      "id": 304,
+      "word": "available,",
+      "start": 175.63,
+      "end": 176.34
+    },
+    {
+      "id": 305,
+      "word": "lastly,",
+      "start": 176.77,
+      "end": 177.42
+    },
+    {
+      "id": 306,
+      "word": "for",
+      "start": 177.87,
+      "end": 178.1
+    },
+    {
+      "id": 307,
+      "word": "integrating",
+      "start": 178.07,
+      "end": 178.82
+    },
+    {
+      "id": 308,
+      "word": "real",
+      "start": 178.79,
+      "end": 179.18
+    },
+    {
+      "id": 309,
+      "word": "-time",
+      "start": 179.15,
+      "end": 179.5
+    },
+    {
+      "id": 310,
+      "word": "data",
+      "start": 179.47,
+      "end": 179.86
+    },
+    {
+      "id": 311,
+      "word": "streams",
+      "start": 179.83,
+      "end": 180.3
+    },
+    {
+      "id": 312,
+      "word": "into",
+      "start": 180.27,
+      "end": 180.7
+    },
+    {
+      "id": 313,
+      "word": "machine",
+      "start": 180.67,
+      "end": 181.06
+    },
+    {
+      "id": 314,
+      "word": "learning",
+      "start": 181.03,
+      "end": 181.44
+    },
+    {
+      "id": 315,
+      "word": "systems.",
+      "start": 181.41,
+      "end": 182.2
+    },
+    {
+      "id": 316,
+      "word": "Amazon",
+      "start": 188.89,
+      "end": 189.88
+    },
+    {
+      "id": 317,
+      "word": "activity",
+      "start": 189.85,
+      "end": 190.36
+    },
+    {
+      "id": 318,
+      "word": "and",
+      "start": 190.33,
+      "end": 190.58
+    },
+    {
+      "id": 319,
+      "word": "data",
+      "start": 190.55,
+      "end": 190.9
+    },
+    {
+      "id": 320,
+      "word": "ingestion",
+      "start": 190.87,
+      "end": 191.56
+    },
+    {
+      "id": 321,
+      "word": "from",
+      "start": 191.53,
+      "end": 191.86
+    },
+    {
+      "id": 322,
+      "word": "internet",
+      "start": 191.83,
+      "end": 192.34
+    },
+    {
+      "id": 323,
+      "word": "of",
+      "start": 192.31,
+      "end": 192.6
+    },
+    {
+      "id": 324,
+      "word": "things",
+      "start": 192.57,
+      "end": 192.82
+    },
+    {
+      "id": 325,
+      "word": "devices.",
+      "start": 192.79,
+      "end": 193.48
+    }
+  ]
+}
